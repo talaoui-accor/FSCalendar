@@ -6,18 +6,18 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendar.h"
-#import "FSCalendarHeaderView.h"
-#import "FSCalendarWeekdayView.h"
-#import "FSCalendarStickyHeader.h"
-#import "FSCalendarCollectionViewLayout.h"
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarHeaderView.h>
+#import <FSCalendar/FSCalendarWeekdayView.h>
+#import <FSCalendar/FSCalendarStickyHeader.h>
+#import <FSCalendar/FSCalendarCollectionViewLayout.h>
 
-#import "FSCalendarExtensions.h"
-#import "FSCalendarDynamicHeader.h"
-#import "FSCalendarCollectionView.h"
-#import "FSCalendarTransitionCoordinator.h"
-#import "FSCalendarCalculator.h"
-#import "FSCalendarDelegationFactory.h"
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
+#import <FSCalendar/FSCalendarCollectionView.h>
+#import <FSCalendar/FSCalendarTransitionCoordinator.h>
+#import <FSCalendar/FSCalendarCalculator.h>
+#import <FSCalendar/FSCalendarDelegationFactory.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

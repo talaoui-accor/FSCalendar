@@ -6,7 +6,7 @@
 //  Copyright © 2016 wenchaoios. All rights reserved.
 //
 
-#import "FSCalendarDelegationFactory.h"
+#import <FSCalendar/FSCalendarDelegationFactory.h>
 
 @implementation FSCalendarDelegationFactory
 

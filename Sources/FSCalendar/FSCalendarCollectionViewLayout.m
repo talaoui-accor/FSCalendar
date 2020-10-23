@@ -6,13 +6,13 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendarCollectionViewLayout.h"
-#import "FSCalendar.h"
-#import "FSCalendarDynamicHeader.h"
-#import "FSCalendarCollectionView.h"
-#import "FSCalendarExtensions.h"
-#import "FSCalendarConstants.h"
-#import "FSCalendarSeparatorDecorationView.h"
+#import <FSCalendar/FSCalendarCollectionViewLayout.h>
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
+#import <FSCalendar/FSCalendarCollectionView.h>
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarConstants.h>
+#import <FSCalendar/FSCalendarSeparatorDecorationView.h>
 
 #define kFSCalendarSeparatorInterRows @"FSCalendarSeparatorInterRows"
 #define kFSCalendarSeparatorInterColumns @"FSCalendarSeparatorInterColumns"

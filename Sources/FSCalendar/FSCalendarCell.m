@@ -6,11 +6,11 @@
 //
 //
 
-#import "FSCalendarCell.h"
-#import "FSCalendar.h"
-#import "FSCalendarExtensions.h"
-#import "FSCalendarDynamicHeader.h"
-#import "FSCalendarConstants.h"
+#import <FSCalendar/FSCalendarCell.h>
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
+#import <FSCalendar/FSCalendarConstants.h>
 
 @interface FSCalendarCell ()
 

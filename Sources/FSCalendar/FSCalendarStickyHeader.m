@@ -6,12 +6,12 @@
 //  Copyright (c) 2015 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendarStickyHeader.h"
-#import "FSCalendar.h"
-#import "FSCalendarWeekdayView.h"
-#import "FSCalendarExtensions.h"
-#import "FSCalendarConstants.h"
-#import "FSCalendarDynamicHeader.h"
+#import <FSCalendar/FSCalendarStickyHeader.h>
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarWeekdayView.h>
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarConstants.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
 
 @interface FSCalendarStickyHeader ()
 

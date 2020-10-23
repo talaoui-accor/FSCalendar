@@ -8,9 +8,9 @@
 //  https://github.com/WenchaoD
 //
 
-#import "FSCalendarAppearance.h"
-#import "FSCalendarDynamicHeader.h"
-#import "FSCalendarExtensions.h"
+#import <FSCalendar/FSCalendarAppearance.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
+#import <FSCalendar/FSCalendarExtensions.h>
 
 @interface FSCalendarAppearance ()
 

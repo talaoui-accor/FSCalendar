@@ -6,8 +6,8 @@
 //  Copyright © 2018 wenchaoios. All rights reserved.
 //
 
-#import "FSCalendarSeparatorDecorationView.h"
-#import "FSCalendarConstants.h"
+#import <FSCalendar/FSCalendarSeparatorDecorationView.h>
+#import <FSCalendar/FSCalendarConstants.h>
 
 @implementation FSCalendarSeparatorDecorationView
 

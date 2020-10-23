@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.requires_arc = true
   s.framework    = 'UIKit', 'QuartzCore'
-  s.source_files = 'FSCalendar/*.{h,m}'
+  s.source_files = 'Sources/FSCalendar/*.m', 'Sources/FSCalendar/include/FSCalendar/*.h'
 
 end

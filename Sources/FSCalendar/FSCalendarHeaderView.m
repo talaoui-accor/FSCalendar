@@ -6,11 +6,11 @@
 //
 //
 
-#import "FSCalendar.h"
-#import "FSCalendarExtensions.h"
-#import "FSCalendarHeaderView.h"
-#import "FSCalendarCollectionView.h"
-#import "FSCalendarDynamicHeader.h"
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarHeaderView.h>
+#import <FSCalendar/FSCalendarCollectionView.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
 
 @interface FSCalendarHeaderView ()<UICollectionViewDataSource,UICollectionViewDelegate,FSCalendarCollectionViewInternalDelegate>
 

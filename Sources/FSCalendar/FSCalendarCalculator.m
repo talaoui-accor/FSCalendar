@@ -6,10 +6,10 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendar.h"
-#import "FSCalendarCalculator.h"
-#import "FSCalendarDynamicHeader.h"
-#import "FSCalendarExtensions.h"
+#import <FSCalendar/FSCalendar.h>
+#import <FSCalendar/FSCalendarCalculator.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
+#import <FSCalendar/FSCalendarExtensions.h>
 
 @interface FSCalendarCalculator ()
 

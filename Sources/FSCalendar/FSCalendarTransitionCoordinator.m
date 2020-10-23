@@ -6,9 +6,9 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendarTransitionCoordinator.h"
-#import "FSCalendarExtensions.h"
-#import "FSCalendarDynamicHeader.h"
+#import <FSCalendar/FSCalendarTransitionCoordinator.h>
+#import <FSCalendar/FSCalendarExtensions.h>
+#import <FSCalendar/FSCalendarDynamicHeader.h>
 
 @interface FSCalendarTransitionCoordinator ()
 

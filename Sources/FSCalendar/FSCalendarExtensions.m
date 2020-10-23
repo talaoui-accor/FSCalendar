@@ -6,7 +6,7 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendarExtensions.h"
+#import <FSCalendar/FSCalendarExtensions.h>
 #import <objc/runtime.h>
 
 @implementation UIView (FSCalendarExtensions)

@@ -6,7 +6,7 @@
 //  Copyright © 2016 Wenchao Ding. All rights reserved.
 //
 
-#import "FSCalendarDelegationProxy.h"
+#import <FSCalendar/FSCalendarDelegationProxy.h>
 #import <objc/runtime.h>
 
 @implementation FSCalendarDelegationProxy
